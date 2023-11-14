@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rohit's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Rohit's Portfolio</h1>
+    </header>
+
+    <main>
+        <section class="about-me">
+            <h2>About Me</h2>
+            <p>.</p>
+        </section>
+
+        <section class="accomplishments">
+            <h2>Accomplishments</h2>
+            <ul>
+                <li>I have good skills in java programming and have done multiple projects on it.</li>
+                <li>I hava a professional certificate from Google on Project Management.</li>
+                <li>I am a good leader and a problem solver and have done various internships.</li>
+            </ul>
+        </section>
+
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>If you have any questions or would like to know more about me, please feel free to contact me on my email at rohitdeyx1118@gmail.com.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Rohit</p>
+    </footer>
+</body>
+</html>
